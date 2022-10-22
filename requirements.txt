@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+pymongo[srv]
+fastapi[all]
+selenium
+undetected_chromedriver
+bs4
+requests

@@ -1,0 +1,5 @@
+*.cer
+*.json
+*.exe
+evas
+.env
